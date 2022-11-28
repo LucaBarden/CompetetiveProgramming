@@ -1,0 +1,10 @@
+/contests
+*.pdf
+*.out
+/woche7contest/stanford
+*/.vscode
+.vscode
+*/.DS_Store
+*/.nvimrc
+*/.idea
+.DS_Store
