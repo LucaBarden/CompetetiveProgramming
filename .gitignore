@@ -8,3 +8,4 @@
 */.nvimrc
 */.idea
 .DS_Store
+*.exe
